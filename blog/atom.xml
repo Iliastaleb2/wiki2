@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ARES-Hub.com/wiki2/blog</id>
+    <title>ARES-Hub Blog</title>
+    <updated>2025-04-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ARES-Hub.com/wiki2/blog"/>
+    <subtitle>ARES-Hub Blog</subtitle>
+    <icon>https://ARES-Hub.com/wiki2/img/Ares_Clear.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Présentation du nouveau bureau 2025/2026]]></title>
+        <id>https://ARES-Hub.com/wiki2/blog/Présentation bureau</id>
+        <link href="https://ARES-Hub.com/wiki2/blog/Présentation bureau"/>
+        <updated>2025-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Voici une petite présentation des membres du bureau 2025/2026:]]></summary>
+        <content type="html"><![CDATA[<p>Voici une petite présentation des membres du <strong>bureau 2025/2026</strong>:</p>
+<p><img decoding="async" loading="lazy" alt="Bureau 2025/2026" src="https://ares-hub.com/wiki2/assets/images/bureau202526-0a56c22532f86694a5b416adb06cb981.jpg" width="1080" height="1350" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Ilias Taleb</name>
+            <uri>https://github.com/AresEnsea</uri>
+        </author>
+        <category label="Bureau" term="Bureau"/>
+        <category label="Inauguration" term="Inauguration"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lancement du nouveau Wiki]]></title>
+        <id>https://ARES-Hub.com/wiki2/blog/Lancement du Wiki</id>
+        <link href="https://ARES-Hub.com/wiki2/blog/Lancement du Wiki"/>
+        <updated>2025-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aujourd'hui c'est le grand jour: c'est le lancement du nouveau Wiki d'Ares !]]></summary>
+        <content type="html"><![CDATA[<p>Aujourd'hui c'est le grand jour: c'est le <strong>lancement du nouveau Wiki d'Ares !</strong></p>]]></content>
+        <author>
+            <name>Ilias Taleb</name>
+            <uri>https://github.com/AresEnsea</uri>
+        </author>
+        <category label="Inauguration" term="Inauguration"/>
+    </entry>
+</feed>
