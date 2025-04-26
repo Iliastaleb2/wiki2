@@ -6,3 +6,84 @@ Ilias:
   page: true
   socials:
     github: AresEnsea
+
+Janus:
+  name: Janus Capodagli
+  title: Manager
+  url: https://github.com/AresEnsea
+  image_url: https://github.com/AresEnsea.png
+  page: true
+  socials:
+    github: AresEnsea
+
+Karim:
+  name: Karim Ouerfelli
+  title: Vice-Manager
+  url: https://github.com/AresEnsea
+  image_url: https://github.com/AresEnsea.png
+  page: true
+  socials:
+    github: AresEnsea
+
+Agheles:
+  name: Agheles Mekdache
+  title: Responsable Partenariats
+  url: https://github.com/AresEnsea
+  image_url: https://github.com/AresEnsea.png
+  page: true
+  socials:
+    github: AresEnsea
+
+Alexeï:
+  name: Alexeï Douillard
+  title: Responsable Cansat
+  url: https://github.com/AresEnsea
+  image_url: https://github.com/AresEnsea.png
+  page: true
+  socials:
+    github: AresEnsea
+
+Bradley:
+  name: Bradley Seraphin
+  title: Responsable Mécanique
+  url: https://github.com/AresEnsea
+  image_url: https://github.com/AresEnsea.png
+  page: true
+  socials:
+    github: AresEnsea
+
+Arthur:
+  name: Arthur Nkwa
+  title: Responsable AresCycle
+  url: https://github.com/AresEnsea
+  image_url: https://github.com/AresEnsea.png
+  page: true
+  socials:
+    github: AresEnsea
+
+Nahla:
+  name: Nahla El Harrak
+  title: Responsable CDFR
+  url: https://github.com/AresEnsea
+  image_url: https://github.com/AresEnsea.png
+  page: true
+  socials:
+    github: AresEnsea
+
+Salim:
+  name: Salim Bouateli
+  title: Responsable Communication
+  url: https://github.com/AresEnsea
+  image_url: https://github.com/AresEnsea.png
+  page: true
+  socials:
+    github: AresEnsea
+
+Yehia:
+  name: Yehia Zeaiter
+  title: Trésorier et Responsable Matériel
+  url: https://github.com/AresEnsea
+  image_url: https://github.com/AresEnsea.png
+  page: true
+  socials:
+    github: AresEnsea
