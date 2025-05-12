@@ -17,3 +17,5 @@ Le rapport entre la durée de variation de l'état haut et celui de l'état bas 
 Pour mieux comprendre cela, en voici une illustration:
 
 ![PWM1](./imgd/PWM1.png)
+
+RQ: si le rapport cyclique vaut 100%, on obtient un échelon et si le rapport cyclique vaut 0% on obtient en effet, un signal nul
