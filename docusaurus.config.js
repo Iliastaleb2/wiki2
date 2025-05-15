@@ -15,15 +15,15 @@ const config = {
   favicon: '/img/Ares_Clear.ico',
 
   // Set the production url of your site here
-  url: 'https://iliastaleb2.github.io',
+  url: 'https://AresEnsea.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/wiki2/',
+  baseUrl: '/Wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Iliastaleb2', // Usually your GitHub org/user name.
-  projectName: 'wiki2', // Usually your repo name.
+  organizationName: 'AresEnsea', // Usually your GitHub org/user name.
+  projectName: 'Wiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
